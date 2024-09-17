@@ -1,0 +1,6 @@
+print(chr(97))
+print('a')
+print(8)
+print(chr(56))
+print('[')
+print(chr(91))
